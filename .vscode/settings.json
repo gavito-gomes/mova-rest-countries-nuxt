@@ -1,3 +1,5 @@
 {
-  "nuxt.isNuxtApp": true
+  "nuxt.isNuxtApp": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
 }
